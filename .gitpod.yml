@@ -1,2 +1,4 @@
 tasks:
   - command: npm i -g ionic cordova
+  - command: npm i
+  - command: ionic serve
